@@ -16,12 +16,6 @@ I am a passionate Software Engineer specialized in building and customizing ERP 
 
 ---
 
-### 📊 GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ### 🔭 Current Focus
 - 👨‍💻 Developing custom Odoo modules and business workflows.
 - ⚡ Optimizing PostgreSQL queries for better ERP performance.
@@ -30,7 +24,7 @@ I am a passionate Software Engineer specialized in building and customizing ERP 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mahmoud-numan-4599b8259/))
+- **LinkedIn:** [linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/mahmoud-numan-4599b8259/)]
 - **Email:** mahmoudnuman466@gmail.com
 
 ---
