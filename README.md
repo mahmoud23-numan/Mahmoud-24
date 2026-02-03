@@ -24,7 +24,7 @@ I am a passionate Software Engineer specialized in building and customizing ERP 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/[Mahmoud Numan](https://www.linkedin.com/in/mahmoud-numan-4599b8259/)]
+- **LinkedIn:** [Mahmoud Numan](https://www.linkedin.com/in/mahmoud-numan-4599b8259/)]
 - **Email:** mahmoudnuman466@gmail.com
 
 ---
