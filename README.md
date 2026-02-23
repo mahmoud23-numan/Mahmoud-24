@@ -29,4 +29,3 @@ I am a passionate Software Engineer specialized in building and customizing ERP 
 
 ---
 
-*"Turning complex business logic into simple, elegant code."*
